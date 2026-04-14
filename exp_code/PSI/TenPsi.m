@@ -1,0 +1,1 @@
+for hh=1:50	TestPsi;	plotThresh(hh)=thresEst;	plotSlope(hh)=slopeEst;endplotThreshplotSlope
