@@ -35,6 +35,9 @@ project/
 ├── vggimg/
 │   └── vgg_img_1v1.py          # VGG feature extraction (base module)
 └── README.md
+
+- Project 2- CNN-Based Feature Manipulation & Human Vision Experiment.pdf ← summary of the project
+- Project 2-dCNN 特徵操弄&人類視覺實驗.pdf ← summary of the project *chinese version
 ```
 
 ---
